@@ -21,10 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="with_pool.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="with_joblib.py">
+    <Compile Include="module3.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Tutorial_multiproces.py" />
